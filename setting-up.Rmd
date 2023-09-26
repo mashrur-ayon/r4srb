@@ -1,0 +1,19 @@
+# Setting up Your Environment
+
+## Setting Up
+
+In this section, we will load the required R packages and set up our environment.
+
+## Loading the dplyr package
+
+`dplyr` is one of the packages in the tidyverse, and it helps in data manipulation.
+
+```{r setup-dplyr, echo=TRUE, message=FALSE}
+# Load the dplyr package
+library(dplyr)
+
+# Print the version of dplyr
+packageVersion("dplyr")
+```
+
+The `echo=TRUE` option in the chunk means that both the R code and its output will be included in the rendered document.

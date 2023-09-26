@@ -1,0 +1,13 @@
+bookdown::gitbook:
+  css: style.css  # Custom CSS
+  config:
+    toc:
+      collapse: section
+    download: ["pdf", "epub"]
+bookdown::epub_book: default
+bookdown::pdf_book:
+  latex_engine: xelatex # Use xelatex for better font support
+  includes:
+    in_header: preamble.tex # Link to your LaTeX preamble
+
+

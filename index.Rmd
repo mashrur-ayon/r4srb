@@ -1,0 +1,13 @@
+---
+title: "R for Social Research"
+subtitle: "Exploring, Visualizing, and Analyzing Social Data"
+author: "Your Name"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+---
+
+# Preface
+
+Welcome to *R for Social Research*. This book will guide beginners.

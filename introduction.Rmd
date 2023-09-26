@@ -1,0 +1,3 @@
+# Introduction
+
+This chapter will introduce the fundamental concepts of R programming, and will introduce crucial concepts of social science. 
