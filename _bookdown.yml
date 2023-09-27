@@ -1,4 +1,4 @@
 rmd_files:
   - index.Rmd
   - introduction.Rmd
-  - setting-up.Rmd
+  - setup.Rmd
